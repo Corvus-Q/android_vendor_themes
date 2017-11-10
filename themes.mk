@@ -114,6 +114,12 @@ PRODUCT_COPY_FILES += \
     vendor/themes/fonts/ProductSans/ProductSans-Regular.ttf:system/fonts/ProductSans-Regular.ttf \
     vendor/themes/fonts/ProductSans/ProductSans-Thin.ttf:system/fonts/ProductSans-Thin.ttf \
     vendor/themes/fonts/ProductSans/ProductSans-ThinItalic.ttf:system/fonts/ProductSans-ThinItalic.ttf \
+    vendor/themes/fonts/GoogleSans-Regular.ttf:system/fonts/GoogleSans-Regular.ttf \
+    vendor/themes/fonts/GoogleSans-Medium.ttf:system/fonts/GoogleSans-Medium.ttf \
+    vendor/themes/fonts/GoogleSans-MediumItalic.ttf:system/fonts/GoogleSans-MediumItalic.ttf \
+    vendor/themes/fonts/GoogleSans-Italic.ttf:system/fonts/GoogleSans-Italic.ttf \
+    vendor/themes/fonts/GoogleSans-Bold.ttf:system/fonts/GoogleSans-Bold.ttf \
+    vendor/themes/fonts/GoogleSans-BoldItalic.ttf:system/fonts/GoogleSans-BoldItalic.ttf \
     vendor/themes/fonts/roadrage/road_rage.ttf:system/fonts/RoadRage-Regular.ttf \
     vendor/themes/fonts/neoneon/neoneon.ttf:system/fonts/Neoneon-Regular.ttf \
     vendor/themes/fonts/mexcellent/mexcellent.ttf:system/fonts/Mexcellent-Regular.ttf \
