@@ -18,7 +18,6 @@ PRODUCT_PACKAGES += \
     QSTileNinja \
     QSTilePokesign \
     QSTileShishuInk \
-    QSTileShishuInk \
     QSTileCosmos \
     QSTileDividedCircle \
     QSTileNeonLight \
