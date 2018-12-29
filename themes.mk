@@ -43,3 +43,9 @@ PRODUCT_PACKAGES += \
     FilesThemeElegant \
     WellbeingElegantTheme \
     GooglePlayElegantTheme 
+
+# Switch themes
+PRODUCT_PACKAGES += \
+    MD2Switch \
+    OnePlusSwitch \
+    StockSwitch
