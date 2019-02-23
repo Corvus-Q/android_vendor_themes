@@ -80,7 +80,8 @@ PRODUCT_PACKAGES += \
 
 # Themes
 PRODUCT_PACKAGES += \
-    DUFonts
+    DUFonts \
+    OmniStyle 
 
 # Switch themes
 PRODUCT_PACKAGES += \
