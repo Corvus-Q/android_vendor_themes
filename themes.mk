@@ -75,3 +75,21 @@ PRODUCT_PACKAGES += \
     OnePlusSwitch \
     StockSwitch \
     SwitchTelegram
+
+# Extended system fonts
+PRODUCT_COPY_FILES += \
+    vendor/themes/fonts/gobold/Gobold.ttf:system/fonts/Gobold.ttf \
+    vendor/themes/fonts/gobold/Gobold-Italic.ttf:system/fonts/Gobold-Italic.ttf \
+    vendor/themes/fonts/gobold/GoboldBold.ttf:system/fonts/GoboldBold.ttf \
+    vendor/themes/fonts/gobold/GoboldBold-Italic.ttf:system/fonts/GoboldBold-Italic.ttf \
+    vendor/themes/fonts/gobold/GoboldThinLight.ttf:system/fonts/GoboldThinLight.ttf \
+    vendor/themes/fonts/gobold/GoboldThinLight-Italic.ttf:system/fonts/GoboldThinLight-Italic.ttf \
+    vendor/themes/fonts/roadrage/road_rage.ttf:system/fonts/RoadRage-Regular.ttf \
+    vendor/themes/fonts/neoneon/neoneon.ttf:system/fonts/Neoneon-Regular.ttf \
+    vendor/themes/fonts/mexcellent/mexcellent.ttf:system/fonts/Mexcellent-Regular.ttf \
+    vendor/themes/fonts/burnstown/burnstown.ttf:system/fonts/Burnstown-Regular.ttf \
+    vendor/themes/fonts/dumbledor/dumbledor.ttf:system/fonts/Dumbledor-Regular.ttf \
+    vendor/themes/fonts/PhantomBold/PhantomBold.ttf:system/fonts/PhantomBold-Regular.ttf \
+    vendor/themes/fonts/snowstorm/snowstorm.ttf:system/fonts/Snowstorm-Regular.ttf \
+    vendor/themes/fonts/vcrosd/vcr_osd_mono.ttf:system/fonts/ThemeableFont-Regular.ttf \
+    vendor/themes/fonts/Shamshung/Shamshung.ttf:system/fonts/Shamshung.ttf
