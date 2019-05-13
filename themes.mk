@@ -84,6 +84,12 @@ PRODUCT_COPY_FILES += \
     vendor/themes/fonts/gobold/GoboldBold-Italic.ttf:system/fonts/GoboldBold-Italic.ttf \
     vendor/themes/fonts/gobold/GoboldThinLight.ttf:system/fonts/GoboldThinLight.ttf \
     vendor/themes/fonts/gobold/GoboldThinLight-Italic.ttf:system/fonts/GoboldThinLight-Italic.ttf \
+    vendor/themes/fonts/ProductSans/ProductSans-Italic.ttf:system/fonts/ProductSans-Italic.ttf \
+    vendor/themes/fonts/ProductSans/ProductSans-Light.ttf:system/fonts/ProductSans-Light.ttf \
+    vendor/themes/fonts/ProductSans/ProductSans-LightItalic.ttf:system/fonts/ProductSans-LightItalic.ttf \
+    vendor/themes/fonts/ProductSans/ProductSans-Regular.ttf:system/fonts/ProductSans-Regular.ttf \
+    vendor/themes/fonts/ProductSans/ProductSans-Thin.ttf:system/fonts/ProductSans-Thin.ttf \
+    vendor/themes/fonts/ProductSans/ProductSans-ThinItalic.ttf:system/fonts/ProductSans-ThinItalic.ttf \
     vendor/themes/fonts/roadrage/road_rage.ttf:system/fonts/RoadRage-Regular.ttf \
     vendor/themes/fonts/neoneon/neoneon.ttf:system/fonts/Neoneon-Regular.ttf \
     vendor/themes/fonts/mexcellent/mexcellent.ttf:system/fonts/Mexcellent-Regular.ttf \
