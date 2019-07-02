@@ -119,7 +119,7 @@ PRODUCT_COPY_FILES += \
     vendor/themes/fonts/vcrosd/vcr_osd_mono.ttf:system/fonts/ThemeableFont-Regular.ttf \
     vendor/themes/fonts/Shamshung/Shamshung.ttf:system/fonts/Shamshung.ttf \
     vendor/themes/fonts/snowstorm/snowstorm.ttf:system/fonts/Snowstorm-Regular.ttf \
-    vendor/themes/fonts/vcrosd/vcr_osd_mono.ttf:system/fonts/ThemeableClock-Regular.ttf \
+    vendor/themes/fonts/vcrosd/vcr_osd_mono.ttf:system/fonts/ThemeableClock-vcrosd.ttf \
     vendor/themes/fonts/fontage/AdamCGPro-Regular.ttf:system/fonts/AdamCGPro-Regular.ttf \
     vendor/themes/fonts/fontage/AlexanaNeue-Regular.ttf:system/fonts/AlexanaNeue-Regular.ttf \
     vendor/themes/fonts/fontage/AlienLeague-Regular.ttf:system/fonts/AlienLeague-Regular.ttf \
