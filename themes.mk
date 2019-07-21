@@ -3,7 +3,21 @@ PRODUCT_PACKAGES += \
     QStilesSquare \
     QStilesRoundedSquare \
     QStilesSquircle \
-    QStilesTearDrop
+    QStilesTearDrop \
+    QSTileSquircle \
+    QSTileTearDrop \
+    QSTileCircleDual \
+    QSTileCircleGradient \
+    QSTileInkdrop \
+    QSTileIconAccent \
+    QSTileShishuNights \
+    QSTileMemedoSquare \
+    QSTileWavey \
+    QSTileAttemptMountain \
+    QSTileDottedCircle \
+    QSTileNinja \
+    QSTilePokesign \
+    QSTileShishuInk
 
 # UI Variants
 PRODUCT_PACKAGES += \
