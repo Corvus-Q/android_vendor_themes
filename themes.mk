@@ -24,7 +24,13 @@ PRODUCT_PACKAGES += \
     QSTileNeonLight \
     QSTileOxygen \
     QSTileTriangles \
-    QSTileCookie
+    QSTileCookie \
+    QStileBadge \
+    QStileBadgetwo \
+    QStileHexagon \
+    QStileStar \
+    QStileGear \
+    QStileDiamond
 
 # QS header styles
 PRODUCT_PACKAGES += \
