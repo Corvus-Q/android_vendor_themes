@@ -88,7 +88,11 @@ PRODUCT_PACKAGES += \
     MD2Switch \
     OnePlusSwitch \
     StockSwitch \
-    SwitchTelegram
+    SwitchTelegram \
+    Contained \
+    Retro \
+    Stockish \
+    Narrow
 
 # Extended system fonts
 PRODUCT_COPY_FILES += \
