@@ -91,6 +91,12 @@ PRODUCT_PACKAGES += \
 
 # Extended system fonts
 PRODUCT_COPY_FILES += \
+    vendor/themes/fonts/sourcesanspro/SourceSansPro-Regular.ttf:system/fonts/SourceSansPro-Regular.ttf \
+    vendor/themes/fonts/sourcesanspro/SourceSansPro-Italic.ttf:system/fonts/SourceSansPro-Italic.ttf \
+    vendor/themes/fonts/sourcesanspro/SourceSansPro-SemiBold.ttf:system/fonts/SourceSansPro-SemiBold.ttf \
+    vendor/themes/fonts/sourcesanspro/SourceSansPro-SemiBoldItalic.ttf:system/fonts/SourceSansPro-SemiBoldItalic.ttf \
+    vendor/themes/fonts/sourcesanspro/SourceSansPro-Bold.ttf:system/fonts/SourceSansPro-Bold.ttf \
+    vendor/themes/fonts/sourcesanspro/SourceSansPro-BoldItalic.ttf:system/fonts/SourceSansPro-BoldItalic.ttf \
     vendor/themes/fonts/gobold/Gobold.ttf:system/fonts/Gobold.ttf \
     vendor/themes/fonts/gobold/Gobold-Italic.ttf:system/fonts/Gobold-Italic.ttf \
     vendor/themes/fonts/gobold/GoboldBold.ttf:system/fonts/GoboldBold.ttf \
