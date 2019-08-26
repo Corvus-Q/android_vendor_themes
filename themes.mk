@@ -26,6 +26,14 @@ PRODUCT_PACKAGES += \
     QSTileTriangles \
     QSTileCookie
 
+# QS header styles
+PRODUCT_PACKAGES += \
+    QSHeaderBlack \
+    QSHeaderGrey \
+    QSHeaderLightGrey \
+    QSHeaderAccent \
+    QSHeaderTransparent
+
 # UI Variants
 PRODUCT_PACKAGES += \
     SystemDarkTheme \
