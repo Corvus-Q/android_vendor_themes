@@ -65,6 +65,10 @@ PRODUCT_PACKAGES += \
     WellbeingElegantTheme \
     GooglePlayElegantTheme 
 
+# Themes
+PRODUCT_PACKAGES += \
+    DUFonts
+
 # Switch themes
 PRODUCT_PACKAGES += \
     MD2Switch \
