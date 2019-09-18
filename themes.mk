@@ -67,6 +67,42 @@ PRODUCT_PACKAGES += \
     KindaIndigo \
     ArmyGreen
 
+# Themes
+PRODUCT_PACKAGES += \
+    ThemeGrey \
+    ThemeArsenic \
+    ThemeSlateGrey \
+    ThemeBistre \
+    ThemeRusset \
+    ThemeScarlet \
+    ThemeUbuntuOrange \
+    ThemeSelectiveYellow \
+    ThemeAquamarine \
+    ThemeDarkTurquoise \
+    ThemePineGreen \
+    ThemeAzure \
+    ThemeDenim \
+    ThemeUNBlue \
+    ThemeRoyalBlue \
+    ThemeDarkViolet \
+    ThemeCobalt \
+    ThemePersianBlue \
+    ThemeUltramarine \
+    ThemeAmethyst \
+    ThemeFuchsia \
+    ThemeViolet \
+    ThemeIndigo \
+    ThemeAmaranth \
+    ThemeMauve \
+    ThemeCerise \
+    ThemeAmericanRose \
+    ThemeFireBrick \
+    ThemeVermilion \
+    ThemeBlack \
+    ThemeAlmostBlack \
+    ThemeDarkAF \
+    ThemeBlackPearl
+
 # QS tile styles
 PRODUCT_PACKAGES += \
     QStilesSquare \
@@ -108,11 +144,31 @@ PRODUCT_PACKAGES += \
     QSHeaderAccent \
     QSHeaderTransparent
 
+# Shady themes
+PRODUCT_PACKAGES += \
+    SettingsShady \
+    SettingsIntelligenceShady \
+    SystemShady \
+    SystemUIShady \
+    WellbeingShady
+
+# Glassy themes
+PRODUCT_PACKAGES += \
+    SettingsGlassy \
+    SettingsIntelligenceGlassy \
+    SystemGlassy \
+    SystemUIGlassy \
+    WellbeingGlassy
+
 # UI Variants
 PRODUCT_PACKAGES += \
     SystemDarkTheme \
     SettingsDarkTheme \
     SystemUIDarkTheme \
+    SettingsIntelligenceDark \
+    GoogleIntelligenceSenseDark \
+    GoogleIntelligenceSenseLight \
+    SettingsIntelligenceBlack \
     SystemBlackTheme \
     SettingsBlackTheme \
     SystemUIBlackTheme \
@@ -145,7 +201,10 @@ PRODUCT_PACKAGES += \
     DialerThemeElegant \
     FilesThemeElegant \
     WellbeingElegantTheme \
-    GooglePlayElegantTheme 
+    GooglePlayElegantTheme \
+    SettingsIntelligenceElegant \
+    SettingsIntelligenceExtended \
+    SettingsIntelligenceChocolate
 
 # Themes
 PRODUCT_PACKAGES += \
