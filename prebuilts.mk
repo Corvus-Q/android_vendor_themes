@@ -4,5 +4,5 @@ PRODUCT_PACKAGES += \
     GalleryGoPrebuilt \
     CalendarGooglePrebuilt \
     CalculatorGooglePrebuilt \
-    RetroMusicPlayerPrebuilt \
     LatinIMEGooglePrebuilt
+    CalculatorGooglePrebuilt
