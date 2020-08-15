@@ -59,6 +59,10 @@ PRODUCT_PACKAGES += \
     HideCutout \
     StatusBarStock
 
+# BrightnessSlider Overlay
+PRODUCT_PACKAGES += \
+    BrightnessSliderOverlay
+
 # Themes
 PRODUCT_PACKAGES += \
     PitchBlackSystemOverlay \
