@@ -29,6 +29,8 @@
         <item>@string/fod_recog_animation_miui_aurora</item>
         <item>@string/fod_recog_animation_miui_whirlwind</item>
         <item>@string/fod_recog_animation_miui_nebula</item>
+        <item>@string/fod_recog_animation_miui_tornado_cas</item>
+        <item>@string/fod_recog_animation_miui_star_cas</item>
     </string-array>
 
     <string-array name="fod_recog_animation_values" translatable="false">
@@ -44,5 +46,7 @@
         <item>9</item>
         <item>10</item>
         <item>11</item>
+        <item>12</item>
+        <item>13</item>
     </string-array>
 </resources>

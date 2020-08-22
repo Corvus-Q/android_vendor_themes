@@ -27,4 +27,6 @@
     <string name="fod_recog_animation_miui_aurora">Aurora</string>
     <string name="fod_recog_animation_miui_whirlwind">Whirlwind</string>
     <string name="fod_recog_animation_miui_nebula">Nebula</string>
+    <string name="fod_recog_animation_miui_tornado_cas">Tornado</string>
+    <string name="fod_recog_animation_miui_star_cas">Starlight</string>
 </resources>
