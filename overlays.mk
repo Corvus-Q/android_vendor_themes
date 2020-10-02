@@ -113,7 +113,9 @@ PRODUCT_PACKAGES += \
     NavbarAsusOverlay \
     NavbarOnePlusOverlay \
     NavbarOneUiOverlay \
-    NavbarTecnoCamonOverlay
+    NavbarTecnoCamonOverlay \
+    GesturalNavigationOverlayLong \
+    GesturalNavigationOverlayMedium
 
 # Switch themes
 PRODUCT_PACKAGES += \
@@ -124,3 +126,4 @@ PRODUCT_PACKAGES += \
     Retro \
     Narrow \
     Stockish
+
