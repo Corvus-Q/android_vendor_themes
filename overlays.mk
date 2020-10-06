@@ -115,7 +115,8 @@ PRODUCT_PACKAGES += \
     NavbarOneUiOverlay \
     NavbarTecnoCamonOverlay \
     GesturalNavigationOverlayLong \
-    GesturalNavigationOverlayMedium
+    GesturalNavigationOverlayMedium \
+    GesturalNavigationOverlayHidden
 
 # Switch themes
 PRODUCT_PACKAGES += \
