@@ -21,6 +21,6 @@
      <!-- The background color of a notification card. -->
     <color name="notification_material_background_color">#FF151618</color>
 
-    <color name="du_themes_qs_inactive_color">#EA151618</color>
+    <color name="corvus_themes_qs_inactive_color">#EA151618</color>
 
 </resources>
