@@ -124,6 +124,10 @@
         <font weight="300" style="normal">Linotte.ttf</font>
     </family>
 
+    <family customizationType="new-named-family" name="ginto">
+        <font weight="300" style="normal">Ginto.ttf</font>
+    </family>
+
     <family customizationType="new-named-family" name="bariol">
       <font weight="300" style="normal">Bariol-Regular.ttf</font>
     </family>

@@ -58,4 +58,5 @@ PRODUCT_COPY_FILES += \
     vendor/themes/fonts/Comfortaa.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Comfortaa.ttf \
     vendor/themes/fonts/Storopia.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Storopia.ttf \
     vendor/themes/fonts/Ubuntu.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu.ttf \
-    vendor/themes/fonts/Exotwo.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Exotwo.ttf
+    vendor/themes/fonts/Exotwo.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Exotwo.ttf \
+    vendor/themes/fonts/Ginto.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ginto.ttf
