@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2019-2020 The ShapeShiftOS Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/fod_default_00_cp" android:duration="12" />    
+    <item android:drawable="@drawable/fod_default_01_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_02_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_03_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_04_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_05_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_07_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_08_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_09_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_10_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_11_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_12_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_13_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_14_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_15_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_16_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_17_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_18_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_19_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_20_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_21_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_22_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_23_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_24_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_25_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_26_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_27_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_28_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_29_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_30_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_31_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_32_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_33_cp" android:duration="12" />    
+    <item android:drawable="@drawable/fod_default_34_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_35_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_36_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_37_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_38_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_39_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_40_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_41_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_42_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_43_cp" android:duration="12" />
+    <item android:drawable="@drawable/fod_default_44_cp" android:duration="12" />
+</animation-list>

@@ -29,4 +29,5 @@
     <string name="fod_recog_animation_miui_nebula">Nebula</string>
     <string name="fod_recog_animation_miui_tornado_cas">Tornado</string>
     <string name="fod_recog_animation_miui_star_cas">Starlight</string>
+    <string name="fod_recog_animation_cyberpunk">Cyberpunk 2077</string>
 </resources>

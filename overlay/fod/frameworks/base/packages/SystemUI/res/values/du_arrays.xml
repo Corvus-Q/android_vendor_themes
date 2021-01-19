@@ -29,6 +29,7 @@
         <item>@drawable/fod_miui_whirlwind_recognizing_anim</item>
         <item>@drawable/fod_miui_nebula_recognizing_anim</item>
         <item>@drawable/fod_miui_tornado_cas_recognizing_anim</item>
-        <item>@drawable/fod_miui_star_cas_recognizing_anim</item> 
+        <item>@drawable/fod_miui_star_cas_recognizing_anim</item>
+        <item>@drawable/fod_cyberpunk</item>
     </integer-array>
 </resources>
