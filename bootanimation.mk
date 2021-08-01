@@ -2,11 +2,11 @@
 
 du_device := $(patsubst %f,%,$(subst du_,,$(TARGET_PRODUCT)))
 
-ifneq ($(filter begonia raphael enchilada lavender mido wayne whyred platina ginkgo vince twolip beryllium violet X00T RMX1801 tissot x2 jasmine_sprout sirius grus kenzo davinci,$(du_device)),)
+ifneq ($(filter s2 jd2019 kunlun2 begonia raphael lavender payton mido miatoll excalibur gram whyred ginkgo beryllium violet X00T surya sakura phoenix RMX1921 CPH1859 RMX2001 juice apollo,$(du_device)),) || ($(TARGET_BOOT_ANIMATION_RES),1080)
 scr_resolution := 1080
 endif
 
-ifneq ($(filter ysl riva land santoni X00P,$(du_device)),)
+ifneq ($(filter ysl laurel_sprout,$(du_device)),) || ($(TARGET_BOOT_ANIMATION_RES),720)
 scr_resolution := 720
 endif
 
